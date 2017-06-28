@@ -1,5 +1,4 @@
 vendor/
 .tags
-*.jpg
 index.php
 src/public/index.php
